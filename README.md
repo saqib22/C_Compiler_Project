@@ -126,3 +126,7 @@ EXP   	: EXP LT EXP
       	| DNUM
       	;
 ```
+
+# How to Run
+To run the compiler navigate to the "cc_project_gui.py" and run the file using python3.
+**Note**: Make sure that the prog and parser output files are in the same directory as the python script. 
